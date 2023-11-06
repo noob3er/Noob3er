@@ -30,7 +30,7 @@
 </p>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact)
 </div>
 <div align="center">
 
