@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=white&height=300&section=header&text=💻%20Noob3er&fontSize=120)
+![header](https://capsule-render.vercel.app/api?type=wave&color=red&height=300&section=header&text=💻%20Noob3er&fontSize=120)
 <!--
 **noob3er/Noob3er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 	![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Hyein!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
