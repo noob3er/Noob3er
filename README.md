@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=Jungi%&fontSize=70&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=🧑🏿‍💻%20Jungi%20🧑🏿‍💻&fontSize=70&fontColor=FFFFFF" />
 </div>
 <h3 align="center">👋Hi, Welcome to my github!👋&nbsp
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
