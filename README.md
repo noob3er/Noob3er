@@ -29,7 +29,4 @@
   <a href="noob3er@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=noob3er@gmail.com"/></a>
 </p>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&show_icons=true&theme=radical)>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=radical)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
