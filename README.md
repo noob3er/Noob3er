@@ -24,6 +24,7 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
+   <a href="https://discord.com/channels/juunggi"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/channels/juunggi"/></a>
   <a href="https://www.instagram.com/rickyqop/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="noob3er@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=noob3er@gmail.com"/></a>
 </p>
