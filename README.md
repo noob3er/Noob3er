@@ -29,7 +29,6 @@
   <a href="noob3er@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=noob3er@gmail.com"/></a>
 </p>
 <h3 align="center">✏️ Languages & Skills ✏️</h3>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
 
 <div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=radical)
