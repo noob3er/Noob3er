@@ -28,12 +28,9 @@
   <a href="https://www.instagram.com/rickyqop/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
   <a href="noob3er@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=noob3er@gmail.com"/></a>
 </p>
-<h3 align="center">👩‍💻 Languages 👩‍💻</h3>
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<h3 align="center">✏️ Skills ✏️</h3>
+<h3 align="center">✏️ Language & Skills ✏️</h3>
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&theme=radical)
 </div>
