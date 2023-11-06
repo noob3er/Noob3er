@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=💻%20Jungi&fontSize=90&fontColor=FFFFFF" align="center" />
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=💻%20Jungi&fontSize=90&fontColor=FFFFFF" />
+</div>
 <h2 align="center">👋Hi, Welcome to my github!👋
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
