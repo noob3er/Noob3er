@@ -32,5 +32,5 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=donut)](https://github.com/noob3er/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&show_icons=true&theme=radical)
 </div>
