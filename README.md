@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=💻%20Jungi&fontSize=90&fontColor=FFFFFF" />
 </div>
-<h3 align="center">👋Hi, Welcome to my github!👋
+<h3 align="center">👋Hi, Welcome to my github!👋&nbsp
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
