@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=000&height=300&section=header&text=💻%20Jungi&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=💻%20Jungi&fontSize=90&fontColor=FFFFFF" />
 
 <h2 align="center">👋Hi, Welcome to my github!👋
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
