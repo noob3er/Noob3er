@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=💻%20Jungi&fontSize=90&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=໋%20Jungi%20&fontSize=70&fontColor=FFFFFF" />
 </div>
 <h3 align="center">👋Hi, Welcome to my github!👋&nbsp
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp໋
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/KaliLinux-557C94?style=flat-square&logo=KailLinux&logoColor=white"/></a>&nbsp 
