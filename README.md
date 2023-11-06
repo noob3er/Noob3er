@@ -30,8 +30,9 @@
 </p>
 <h3 align="center">✏️ Languages & Skills✏️</h3>
 
-<div align="column">
-
+<div align="center">
+<div flex-direct="columns">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&theme=radical)
+</div>
 </div>
