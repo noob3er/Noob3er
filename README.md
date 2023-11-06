@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&textHi!%20I'm%20Noob3er!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true)
 ### Hi there 👋
 
 <!--
