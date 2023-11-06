@@ -31,6 +31,6 @@
 <h3 align="center">✏️ Language & Skills ✏️</h3>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&theme=radical) <br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=radical)
 </div>
