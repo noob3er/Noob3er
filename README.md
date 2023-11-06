@@ -30,7 +30,7 @@
 </p>
 <h3 align="center">👩‍💻 Languages 👩‍💻</h3>
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <h3 align="center">✏️ Skills ✏️</h3>
 <div align="center">
