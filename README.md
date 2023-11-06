@@ -1,5 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
-# Hi there 👋
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=💻Noob3er&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=radical)
 
 <!--
 **noob3er/Noob3er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
