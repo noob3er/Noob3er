@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=🧑🏿‍💻%20Jungi%20🧑🏿‍💻&fontSize=70&fontColor=FFFFFF" />
 </div>
-<h3 align="center">👋Hi, Welcome to my github!👋&nbsp&nbsp&nbsp&nbsp&nbsp
+<h3 align="center">👋Hi, Welcome to my github!👋<br/><br/>
 <h3 align="center">⚒️ Tech Stack ⚒️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/></a>&nbsp
 </p>
-
+<br/><br/>
 <h3 align="center">✏️ Language & Skills ✏️</h3>
 <div align="center">
 
