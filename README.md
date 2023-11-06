@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=white&text=%20Hi!%20I'm%20Noob3er!%20&height=300&fontSize=120&textBg=false)
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **noob3er/Noob3er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
