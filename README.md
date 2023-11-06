@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=000&height=300&section=header&text=🧑🏿‍💻%20Jungi%20🧑🏿‍💻&fontSize=70&fontColor=FFFFFF" />
 </div>
 <h3 align="center">👋Hi, Welcome to my github!👋<br/><br/>
@@ -29,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=radical)
 </div>
 
-<h3 align="center">📞 Contact Me </h3>
+<h3 align="center">📞 Contact Me 📞</h3>
 <p align="center">
    <a href="https://discord.gg/CFhjF5Jq"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white&link=[https://discord.com/channels/juunggi](https://discord.gg/CFhjF5Jq)"/></a>
   <a href="https://www.instagram.com/rickyqop/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
