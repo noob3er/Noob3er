@@ -11,24 +11,10 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp 
 </p>
-<br/>
-<br/>
-<h3 align="center">✏️ Language & Skills ✏️</h3>
-<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<h3 align="center">🔥 Skills 🔥</h3>
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noob3er&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
-
-<h3 align="center">📞 Contact Me 📞</h3>
-<p align="center">
-  <a href="https://www.instagram.com/rickyqop/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-</p>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=tokyonight" width="42%"  />
+</a>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" width="32%" />
+</div>
