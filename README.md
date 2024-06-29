@@ -14,8 +14,7 @@
 <br/>
 <br/>
 <h3 align="center">✏️ Language & Skills ✏️</h3>
-<div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&hide_progress=true)
+<div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noob3er&layout=compact)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=noob3er&show_icons=true&theme=dark"
